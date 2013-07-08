@@ -1,0 +1,60 @@
+Kashyap Maduri 
+779 LAKEWOOD DR.
+SUNNYVALE, CA - 94089 
+
+(408)718-7813 
+maduri.1@osu.edu 
+ 
+Education
+---------
+Stanford University, CA (Spring 2013 - present)
+SCPD student in Foundations in computer science certificate (Part-Time)
+
+Ohio State University , Columbus, OH (Fall 2010- Fall 2011) 
+M.S in Geo-Information Systems   GPA: 3.8/4.0 
+
+Birla Institute of Technology and Sciences (BITS) Pilani, India (Aug 2005 – June 2009) 
+B.E (Hons.) in Engineering  GPA(Major): 8.33/ 10.0 
+ 
+Coursework: Computer Organization and Systems (CS 107), Data Structures & Algorithms, Spatial Data Structures, Database Systems, Data Communications & Networking, Digital Mapping Systems, Image Processing, Computational Cartography 
+ 
+Skill Summary 
+-------------
+Languages: Python , Java, C, Ruby, Visual Basic, MatLab, , Shell Script, TCL/Expect 
+Tools: gdb, vim, Git, SVN, Junit, EasyMock, Eclipse, gcc, rake, rspec 
+Web Technologies: MySQL, MS Access (models) 
+Javascript, HTML, CSS (view) 
+  
+Employment
+----------   
+Software Engineer II Cisco Systems Inc (May 2012 - Present) 
+Product: Unified Computing System (UCS) Server Manager
+- Developed python scripts to test the application that manages multiple UCS test-beds 
+- Configured the test-beds and tested multiple OSs (Windows, Linux) on the servers 
+- Used Silk4J Java API for GUI Testing  
+ 
+Software Engineer Nationwide Insurance (ADC) (July 2011 – April 2012) 
+Product: Single Underwriting Desktop Application 
+- Developed a testing framework using  Ruby for Test Driven Development of the application 
+- Used Ruby libraries like Watir, Active Record, Celerity, cucumber, bundler 
+- Coached new members on the team in the technologies used 
+- Maintained the regression suite using tools like Hudson, Rake 
+ 
+GIS Intern National Consultancy for Planning and Engg  (Jan 2009 – Jun 2009) 
+Project: Design of water supply system using GIS (funded by Asian Development Bank) 
+- Designed the system using MS Excel for flow calculation based on the elevation data 
+- Developed a VB macro which helped reduce the project completion time by 20% 
+- Developed python programs to convert the point data between different formats 
+ 
+Academic Projects
+----------------- 
+- Implemented a heap allocator in C for CS 107 final project.
+- Implemented an employee information system for Database Systems course
+- Data Visualization of massive LIDAR point cloud using MATLAB.  
+ + Used strip adjustment, least square adjustment techniques for error rectification  
+- Transit Information System using MapObjects API. VB6, ESRI ArcGIS 
+ + Created the map data using ArcGIS and stored it in MS Access database 
+ + Used ESRI MapObjects API for the front-end functionalities like (zooming, distance calculation etc.) 
+- Employee Information System to manage employee data for an organization MySQL, VB6 
+ + Created a normalized database schema for storing Employee data 
+ + Used VB6 for front-end features
